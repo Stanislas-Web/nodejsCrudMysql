@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "mysql": "*",
+    "express": "*",
+    "ejs": "*",
+    "method-override": "*"
+  }
+}
